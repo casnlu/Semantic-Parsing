@@ -247,6 +247,11 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 *Shuo Huang, Zhuang Li, Lizhen Qu, Lei Pan.* EACL-2021.
 
 ### 2020
+
+1. **Compositional Generalization by Learning Analytical Expressions**
+[[paper](https://papers.nips.cc/paper/2020/file/83adc9225e4deb67d7ce42d58fe5157c-Paper.pdf)] [[code](https://github.com/microsoft/ContextualSP)]
+*Qian Liu, Shengnan An, Jian-Guang Lou, Bei Chen, Zeqi Lin, Yan Gao, Bin Zhou, Nanning Zheng, Dongmei Zhang.* NeurIPS-2020.
+
 1. **Context Dependent Semantic Parsing: A Survey**  
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.226.pdf)] [[resource](https://github.com/zhuang-li/Contextual-Semantic-Parsing-Paper-List)]  
 *Zhuang Li, Lizhen Qu, Gholamreza Haffari.* COLING-2020.
@@ -330,6 +335,10 @@ cite: Panupong Pasupat and Percy Liang. 2015. Compositional Semantic Parsing on 
 1. **Re-examining the Role of Schema Linking in Text-to-SQL**  
 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.564.pdf)] [[code](https://github.com/WING-NUS/slsql)]  
 *Wenqiang Lei, Weixin Wang, Zhixin Ma, Tian Gan, Wei Lu, Min-Yen Kan, Tat-Seng Chua.* EMNLP-2020.
+
+1. **How Far are We from Effective Context Modeling? An Exploratory Study on Semantic Parsing in Context**
+[[paper](https://www.ijcai.org/Proceedings/2020/0495.pdf)][[code](https://github.com/microsoft/ContextualSP)]
+*Qian Liu, Bei Chen, Jiaqi Guo, Jian-Guang Lou, Bin Zhou, Dongmei Zhang.* IJCAI-2020.
 
 1. **CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant**  
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.427.pdf)] [[code](https://github.com/facebookresearch/craftassist/tree/master/acl2020_submission)]  
